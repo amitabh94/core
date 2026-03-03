@@ -9,7 +9,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 
-- Add `fiatPayment` transaction state into `transactionData` and `updateFiatPayment` atomic patch action, including defaults initialization and payment-token reset behavior ([#](https://github.com/MetaMask/core/pull/))
+- Add `fiatPayment` transaction state into `transactionData` and `updateFiatPayment` atomic patch action, including defaults initialization and payment-token reset behavior ([#8093](https://github.com/MetaMask/core/pull/8093))
 
 ## [16.1.2]
 
