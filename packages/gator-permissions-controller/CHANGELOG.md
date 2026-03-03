@@ -9,6 +9,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Changed
 
+- Permission decoding now validates `ExactCalldataEnforcer` and `ValueLteEnforcer` caveat terms; invalid terms cause decoding to fail ([#7844](https://github.com/MetaMask/core/pull/7844))
 - Bump `@metamask/transaction-controller` from `^62.17.0` to `^62.19.0` ([#7996](https://github.com/MetaMask/core/pull/7996), [#8005](https://github.com/MetaMask/core/pull/8005), [#8031](https://github.com/MetaMask/core/pull/8031))
 
 ## [2.0.0]
